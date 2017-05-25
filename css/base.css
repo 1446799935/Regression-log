@@ -1,0 +1,56 @@
+.head{
+	background-color: rgba(86,80,87,0.3);
+	/*border-radius: 4px;*/
+	height: 30px;
+	margin: 0 auto; /*水平居中*/
+	line-height: 30px;
+    position: fixed;
+    /*固定定位*/
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.headDiv {
+
+  }
+.spacing{
+	padding: 10px;
+}
+.left-10{
+	left: 200px;
+}
+.blue{
+	background-color: #27ae60;
+}
+.subject{
+	height: 400px;
+    text-align: center;
+}
+.top50{
+	padding-top: 100px;
+}
+.btn{
+	margin: 0 auto; /*水平居中*/
+}
+input{
+	width: 30px;
+}
+.iteration-table{
+	height: 700px;
+}
+.reckonTime{
+	width: 55px;
+}
+
+.iteration>table{
+	margin-bottom: 0px;	
+}
+.outside{
+	overflow: hidden;
+	margin-top: 50px;
+}
+.font-color{
+	color: #fff;
+}
+
